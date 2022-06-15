@@ -1,0 +1,26 @@
+<!DOCTYPE html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1user-scalable=no"><title>爱小牛</title><link href=./static/css/app.0d62b7c06c37ae59660fef0170fbe620.css rel=stylesheet></head><body><script>//屏幕适应
+    (function (win, doc) {
+        if (!win.addEventListener) return;
+        var html = document.documentElement;
+        function setFont() {
+          var html = document.documentElement;
+          var k = 750;
+          html.style.fontSize = html.clientWidth / k * 100 + "px";
+        }
+        setFont();
+        setTimeout(function () {
+            setFont();
+        }, 300);
+        doc.addEventListener('DOMContentLoaded', setFont, false);
+        win.addEventListener('resize', setFont, false);
+        win.addEventListener('load', setFont, false);
+    })(window, document);</script><style>html,body{
+      margin: 0;
+      padding: 0;
+    }
+    *{
+      box-sizing: border-box;
+    }
+    a{
+      text-decoration: none;
+    }</style><div id=app></div><script type=text/javascript src=./static/js/manifest.2ae2e69a05c33dfc65f8.js></script><script type=text/javascript src=./static/js/vendor.6320182b8ce85b8ac798.js></script><script type=text/javascript src=./static/js/app.3109705f6189b5ae2735.js></script></body></html>

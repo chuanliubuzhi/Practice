@@ -1,0 +1,2 @@
+webpackJsonp([51],{6854:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("444")])},staticRenderFns:[]};var i=t("C7Lr")({name:"bad-review"},r,!1,function(e){t("9RjM")},null,null);n.default=i.exports},"9RjM":function(e,n){}});
+//# sourceMappingURL=51.b296c6b106275402c70c.js.map

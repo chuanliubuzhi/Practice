@@ -1,0 +1,2 @@
+webpackJsonp([47],{YbXr:function(e,n){},owul:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{attrs:{id:""}},[this._v("\n\t功能暂未开通\n")])},staticRenderFns:[]};var u=t("C7Lr")({name:"menu"},r,!1,function(e){t("YbXr")},null,null);n.default=u.exports}});
+//# sourceMappingURL=47.c0672b9cf50db5e11c31.js.map

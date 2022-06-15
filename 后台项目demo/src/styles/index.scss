@@ -1,0 +1,189 @@
+@import './transition.scss';
+
+
+/* 初始化标签在所有浏览器中的margin、padding值 */
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,textarea,
+p,blockquote,th,td,input,select,textarea,button {margin:0;padding:0}
+
+/* 重置fieldset（表单分组）、图片的边框为0*/
+fieldset,img {border:0 none}
+
+/* 重置类表前导符号为onne,menu在HTML5中有效 */
+dl,ul,ol,menu,li {list-style:none}
+
+/* 重置嵌套引用的引号类型 */
+blockquote, q {quotes: none}
+
+/* 重置嵌套引用*/
+blockquote:before, blockquote:after,q:before, q:after {content:'';content:none}
+
+/* 重置表单控件垂直居中*/
+input,select,textarea,button {vertical-align:middle}
+
+/* 重置表单button按钮效果 */
+button {border:0 none;background-color:transparent;cursor:pointer}
+
+/* 重置body 页面背景为灰色 */
+body {background:#f2f2f2}
+
+/* 重置链接a标签 */
+a {text-decoration:none;cursor: pointer;color: #666;}
+
+/* 重置链接a标签的鼠标滑动效果 */
+a:link, a:active, a:hover ,a:visited{text-decoration:none}
+
+/* 取消a标签点击后的虚线框 */
+a {outline: none;}
+a:active {star:expression(this.onFocus=this.blur());}
+
+/* 重置样式标签的样式 */
+address,caption,cite,code,dfn,em,var {font-style:normal;font-weight:normal}
+
+/* 重置表格标题为隐藏 */
+caption {display:none;}
+
+/* 重置table属性 */
+table {width:100%;border-collapse:collapse;border-spacing:0;table-layout:fixed;}
+
+/* 图片在当前行内的垂直位置 */
+img{vertical-align:top}
+
+/* 重置选中样式 */
+* {outline: none;}
+
+/*清除浮动*/
+.clear{clear: both;}
+
+/*清除浮动--推荐使用*/
+.clearfix:before,.clearfix:after{content: '';display: table;}
+.clearfix:after{clear: both;}
+
+#app{
+    height: 100%;
+}
+.app-main{
+    padding: 15px;
+    background: #F2F2F2;
+    padding-top: 0;
+}
+.container{
+    padding: 15px;
+    background-color: #fff;
+    margin-top: 65px;
+    box-shadow: 0 0 10px #CCC;
+}
+.ui-box{
+    padding: 15px;
+    background-color: #fff;
+}
+.ui-bg{
+    background-color: #F2F2F2;
+}
+.pull-left{
+    float: left;
+}
+.pull-right{
+    float: right;
+}
+
+//取消滚动条
+.calSor{
+    &::-webkit-scrollbar {
+        width: 0px;
+        height: 1px;
+    }
+    &::-webkit-scrollbar-thumb {
+        border-radius: 5px;
+        -webkit-box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+        background: rgba(0, 0, 0, 0.2);
+    }
+}
+
+//修复表格横向滚动条
+.el-table__body-wrapper,
+.el-table__footer-wrapper,
+.el-table__header-wrapper {
+    width: 101% !important;
+}
+
+//三级菜单样式
+.third-menu{
+    display: inline-block;
+    position: fixed;
+    left: 200px;
+    top: 5px;
+    height: 51px;
+    z-index: 999;
+    background: transparent;
+    ul{
+        height: 100%;
+        li{
+            float: left;
+            display: inline-block;
+            height: 100%;
+            a{
+                height: 44px;
+                line-height: 44px;
+                display: inline-block;
+                font-size: 14px;
+                margin:0 15px;
+            }
+            .router-link-active{
+                border-bottom: 2px solid #409eff;
+                color: #409eff;
+            }
+        }
+    }
+}
+
+//与三级菜单保持距离
+.newcon{
+//  margin-top: 102px;
+}
+
+.cgdisplay{
+    display: inline-block;
+}
+
+//修改下拉菜单样式
+.popper__arrow {
+    display: none !important;
+}
+.el-dropdown-menu,
+.el-select-dropdown,
+.el-popper {
+    margin-top: 0 !important;
+}
+.selected {
+    margin: 0 !important;
+}
+
+//提示字体
+.ui-color{
+    color: #999;
+}
+
+// 下载按钮
+.button{
+  padding: 7px 5px;
+  font-size: 12px;
+  border-radius: 3px;
+  display: inline-block;
+  line-height: 1;
+  white-space: nowrap;
+  cursor: pointer;
+  background: #fff;
+  border: 1px solid #dcdfe6;
+  color: #606266;
+  -webkit-appearance: none;
+  text-align: center;
+  vertical-align: middle;
+  margin: 0px 10px;
+  outline: 0;
+  margin: 0;
+}
+.button:hover{
+  color:#2aa5eb;
+  border: 1px solid rgba(125, 191, 233,0.4);
+  background:rgba(130, 201, 241, 0.2);
+}

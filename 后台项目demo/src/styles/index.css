@@ -1,0 +1,37 @@
+/*
+Error: Invalid GBK character "\xE5"
+        on line 4 of index.scss
+
+1: @import './transition.scss';
+2: 
+3: 
+4: /* 初始化标签在所有浏览器中的margin、padding值 *\/
+5: body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,textarea,
+6: p,blockquote,th,td,input,select,textarea,button {margin:0;padding:0}
+7: 
+8: /* 重置fieldset（表单分组）、图片的边框为0*\/    
+9: fieldset,img {border:0 none}    
+
+Backtrace:
+index.scss:4
+F:/Ruby/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.3/lib/sass/util.rb:1048:in `rescue in block in find_encoding_error'
+F:/Ruby/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.3/lib/sass/util.rb:1045:in `block in find_encoding_error'
+F:/Ruby/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.3/lib/sass/util.rb:1044:in `each'
+F:/Ruby/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.3/lib/sass/util.rb:1044:in `each_with_index'
+F:/Ruby/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.3/lib/sass/util.rb:1044:in `find_encoding_error'
+F:/Ruby/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.3/lib/sass/util.rb:772:in `check_sass_encoding'
+F:/Ruby/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.3/lib/sass/engine.rb:444:in `check_encoding!'
+F:/Ruby/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.3/lib/sass/engine.rb:400:in `_to_tree'
+F:/Ruby/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.3/lib/sass/engine.rb:290:in `render'
+F:/Ruby/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.3/lib/sass/exec/sass_scss.rb:400:in `run'
+F:/Ruby/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.3/lib/sass/exec/sass_scss.rb:63:in `process_result'
+F:/Ruby/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.3/lib/sass/exec/base.rb:52:in `parse'
+F:/Ruby/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.3/lib/sass/exec/base.rb:19:in `parse!'
+F:/Ruby/Ruby24-x64/lib/ruby/gems/2.4.0/gems/sass-3.5.3/bin/scss:13:in `<top (required)>'
+F:/Ruby/Ruby24-x64/bin/scss:22:in `load'
+F:/Ruby/Ruby24-x64/bin/scss:22:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Invalid GBK character \"\xE5\"\A         on line 4 of index.scss\A \A 1: @import './transition.scss';\A 2: \A 3: \A 4: /* 初始化标签在所有浏览器中的margin、padding值 */\A 5: body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,textarea,\A 6: p,blockquote,th,td,input,select,textarea,button {margin:0;padding:0}\A 7: \A 8: /* 重置fieldset（表单分组）、图片的边框为0*/    \A 9: fieldset,img {border:0 none}    "; }

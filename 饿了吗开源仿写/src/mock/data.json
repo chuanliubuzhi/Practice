@@ -1,0 +1,1567 @@
+{
+  "seller": {
+    "name": "爱心饼屋蛋糕店",
+    "description": "美团专送",
+    "deliveryTime": 55,
+    "score": 4.2,
+    "serviceScore": 4.1,
+    "foodScore": 4.3,
+    "rankRate": 69.2,
+    "minPrice": 20,
+    "deliveryPrice": 20,
+    "ratingCount": 24,
+    "sellCount": 90,
+    "bulletin": "本店是实体店，所有蛋糕均是当天生产制作,水果都是当天采购，证件齐全，请放心使用",
+    "supports": [
+      {
+        "type": 0,
+        "description": "满250减110;满1250减1822;"
+      },
+      {
+        "type": 1,
+        "description": "折扣商品5.56折"
+      },
+      {
+        "type": 2,
+        "description": "有机会领取商家代金券"
+      },
+      {
+        "type": 3,
+        "description": "该商家支持发票,请下单写好发票抬头"
+      },
+      {
+        "type": 4,
+        "description": "已加入“外卖保”计划,食品安全保障"
+      }
+    ],
+    "avatar": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1297149953,1714921666&fm=27&gp=0.jpg",
+    "pics": [
+      "http://p0.meituan.net/shaitu/25d4d54fb996c016596dff4e4e7515212093573.jpg",
+      "http://p0.meituan.net/shaitu/c1dd9e532fd4333a9f97af0d79ca3a96303822.jpg",
+      "http://p0.meituan.net/shaitu/1043e0f31cb0c1b65269a3271d03aa9f207664.jpg",
+      "http://p1.meituan.net/shaitu/5f81682b9b12cfff6df88f095027cea4215526.jpg"
+    ],
+    "infos": [
+      "该商家支持发票,请下单写好发票抬头",
+      "品类:爱心饼屋蛋糕店",
+      "南京市鼓楼区XXXXXXX",
+      "营业时间:10:00-20:30"
+    ]
+  },
+  "goods": [
+    {
+      "name": "热销新品",
+      "type": 1,
+      "foods": [
+        {
+          "name": "布朗熊蛋糕",
+          "price": 189,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100,
+          "info": "蛋糕",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p0.meituan.net/shaitu/0b34c4052672f9e04fcacde2dd78d7822168390.jpg",
+          "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "男闺蜜蛋糕",
+          "price": 188,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "info": "",
+          "icon": "http://p1.meituan.net/deal/0136cb3f532eb9023c738290053f1943271083.jpg@600w_600h_1l",
+          "image": "http://fuss10.elemecdn.com/c/6b/29e3d29b0db63d36f7c500bca31d8jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "汽车蛋糕",
+          "price": 655,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p0.meituan.net/shaitu/1aed0d28163191cff0f3ee7fd3f4235e52042.jpg@600w_600h_1l",
+          "image": "http://fuss10.elemecdn.com/f/28/a51e7b18751bcdf871648a23fd3b4jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "好吃蛋糕",
+          "price": 887,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p1.meituan.net/deal/95eaddcd728c5c0c16e49da5d25803bf107384.jpg@380w_214h_1e_1c",
+          "image": "http://fuss10.elemecdn.com/d/b9/bcab0e8ad97758e65ae5a62b2664ejpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "水果蛋糕",
+          "price": 444,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 101,
+          "rating": 78,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p1.meituan.net/deal/__39491480__9867707.jpg@600w_600h_1l",
+          "image": "http://fuss10.elemecdn.com/7/72/9a580c1462ca1e4d3c07e112bc035jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "芭比娃娃蛋糕",
+          "price": 567,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 91,
+          "rating": 100,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p1.meituan.net/shaitu/e7dda86988260dd5256273eb7a17ecd388106.jpg@600w_600h_1l",
+          "image": "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "花花蛋糕",
+          "price": 888,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 86,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p0.meituan.net/deal/__39491480__7850372.jpg@600w_600h_1l",
+          "image": "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "草莓蛋糕",
+          "price": 998,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 84,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p1.meituan.net/shaitu/f73b370cc6c9000cccaeab9bede951eb409330.jpg@600w_600h_1l",
+          "image": "http://fuss10.elemecdn.com/9/b5/469d8854f9a3a03797933fd01398bjpeg.jpeg?imageView2/1/w/750/h/750"
+        }
+      ]
+    },
+    {
+      "name": "水果蛋糕",
+      "type": -1,
+      "foods": [
+        {
+          "name": "榴莲蛋糕",
+          "price": 222,
+          "oldPrice": 36,
+          "description": "非常难吃且难闻 接受不了。。。。",
+          "sellCount": 17,
+          "rating": 100,
+          "info": "",
+          "ratings": [
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "",
+              "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
+            }
+          ],
+          "icon": "http://p1.meituan.net/shaitu/f73b370cc6c9000cccaeab9bede951eb409330.jpg@600w_600h_1l",
+          "image": "http://fuss10.elemecdn.com/6/72/cb844f0bb60c502c6d5c05e0bddf5jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "布朗熊蛋糕",
+          "price": 189,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100,
+          "info": "蛋糕",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p0.meituan.net/shaitu/0b34c4052672f9e04fcacde2dd78d7822168390.jpg",
+          "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "布朗熊蛋糕",
+          "price": 189,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100,
+          "info": "蛋糕",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p0.meituan.net/shaitu/0b34c4052672f9e04fcacde2dd78d7822168390.jpg",
+          "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "布朗熊蛋糕",
+          "price": 189,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100,
+          "info": "蛋糕",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p0.meituan.net/shaitu/0b34c4052672f9e04fcacde2dd78d7822168390.jpg",
+          "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "布朗熊蛋糕",
+          "price": 189,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100,
+          "info": "蛋糕",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p0.meituan.net/shaitu/0b34c4052672f9e04fcacde2dd78d7822168390.jpg",
+          "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750"
+        }
+      ]
+    },
+    {
+      "name": "慕斯蛋糕",
+      "type": -1,
+      "foods": [
+        {
+          "name": "布朗熊蛋糕",
+          "price": 189,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100,
+          "info": "蛋糕",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p0.meituan.net/shaitu/0b34c4052672f9e04fcacde2dd78d7822168390.jpg",
+          "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "男闺蜜蛋糕",
+          "price": 188,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "info": "",
+          "icon": "http://p1.meituan.net/deal/0136cb3f532eb9023c738290053f1943271083.jpg@600w_600h_1l",
+          "image": "http://fuss10.elemecdn.com/c/6b/29e3d29b0db63d36f7c500bca31d8jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "汽车蛋糕",
+          "price": 655,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p0.meituan.net/shaitu/1aed0d28163191cff0f3ee7fd3f4235e52042.jpg@600w_600h_1l",
+          "image": "http://fuss10.elemecdn.com/f/28/a51e7b18751bcdf871648a23fd3b4jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "好吃蛋糕",
+          "price": 887,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p1.meituan.net/deal/95eaddcd728c5c0c16e49da5d25803bf107384.jpg@380w_214h_1e_1c",
+          "image": "http://fuss10.elemecdn.com/d/b9/bcab0e8ad97758e65ae5a62b2664ejpeg.jpeg?imageView2/1/w/750/h/750"
+        }
+      ]
+    },
+    {
+      "name": "双层水果蛋糕",
+      "type": -1,
+      "foods": [
+        {
+          "name": "布朗熊蛋糕",
+          "price": 189,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100,
+          "info": "蛋糕",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p0.meituan.net/shaitu/0b34c4052672f9e04fcacde2dd78d7822168390.jpg",
+          "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "男闺蜜蛋糕",
+          "price": 188,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "info": "",
+          "icon": "http://p1.meituan.net/deal/0136cb3f532eb9023c738290053f1943271083.jpg@600w_600h_1l",
+          "image": "http://fuss10.elemecdn.com/c/6b/29e3d29b0db63d36f7c500bca31d8jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "汽车蛋糕",
+          "price": 655,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p0.meituan.net/shaitu/1aed0d28163191cff0f3ee7fd3f4235e52042.jpg@600w_600h_1l",
+          "image": "http://fuss10.elemecdn.com/f/28/a51e7b18751bcdf871648a23fd3b4jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "好吃蛋糕",
+          "price": 887,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p1.meituan.net/deal/95eaddcd728c5c0c16e49da5d25803bf107384.jpg@380w_214h_1e_1c",
+          "image": "http://fuss10.elemecdn.com/d/b9/bcab0e8ad97758e65ae5a62b2664ejpeg.jpeg?imageView2/1/w/750/h/750"
+        }
+      ]
+    },
+    {
+      "name": "双层慕斯蛋糕",
+      "type": -1,
+      "foods": [
+        {
+          "name": "布朗熊蛋糕",
+          "price": 189,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100,
+          "info": "蛋糕",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p0.meituan.net/shaitu/0b34c4052672f9e04fcacde2dd78d7822168390.jpg",
+          "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "男闺蜜蛋糕",
+          "price": 188,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "info": "",
+          "icon": "http://p1.meituan.net/deal/0136cb3f532eb9023c738290053f1943271083.jpg@600w_600h_1l",
+          "image": "http://fuss10.elemecdn.com/c/6b/29e3d29b0db63d36f7c500bca31d8jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "汽车蛋糕",
+          "price": 655,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p0.meituan.net/shaitu/1aed0d28163191cff0f3ee7fd3f4235e52042.jpg@600w_600h_1l",
+          "image": "http://fuss10.elemecdn.com/f/28/a51e7b18751bcdf871648a23fd3b4jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "好吃蛋糕",
+          "price": 887,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p1.meituan.net/deal/95eaddcd728c5c0c16e49da5d25803bf107384.jpg@380w_214h_1e_1c",
+          "image": "http://fuss10.elemecdn.com/d/b9/bcab0e8ad97758e65ae5a62b2664ejpeg.jpeg?imageView2/1/w/750/h/750"
+        }
+      ]
+    },
+    {
+      "name": "奶油蛋糕",
+      "type": -1,
+      "foods": [
+        {
+          "name": "布朗熊蛋糕",
+          "price": 189,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100,
+          "info": "蛋糕",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p0.meituan.net/shaitu/0b34c4052672f9e04fcacde2dd78d7822168390.jpg",
+          "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "男闺蜜蛋糕",
+          "price": 188,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "info": "",
+          "icon": "http://p1.meituan.net/deal/0136cb3f532eb9023c738290053f1943271083.jpg@600w_600h_1l",
+          "image": "http://fuss10.elemecdn.com/c/6b/29e3d29b0db63d36f7c500bca31d8jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "汽车蛋糕",
+          "price": 655,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p0.meituan.net/shaitu/1aed0d28163191cff0f3ee7fd3f4235e52042.jpg@600w_600h_1l",
+          "image": "http://fuss10.elemecdn.com/f/28/a51e7b18751bcdf871648a23fd3b4jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "好吃蛋糕",
+          "price": 887,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p1.meituan.net/deal/95eaddcd728c5c0c16e49da5d25803bf107384.jpg@380w_214h_1e_1c",
+          "image": "http://fuss10.elemecdn.com/d/b9/bcab0e8ad97758e65ae5a62b2664ejpeg.jpeg?imageView2/1/w/750/h/750"
+        }
+      ]
+    },
+    {
+      "name": "双层奶油蛋糕",
+      "type": -1,
+      "foods": [
+        {
+          "name": "布朗熊蛋糕",
+          "price": 189,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100,
+          "info": "蛋糕",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p0.meituan.net/shaitu/0b34c4052672f9e04fcacde2dd78d7822168390.jpg",
+          "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "男闺蜜蛋糕",
+          "price": 188,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "info": "",
+          "icon": "http://p1.meituan.net/deal/0136cb3f532eb9023c738290053f1943271083.jpg@600w_600h_1l",
+          "image": "http://fuss10.elemecdn.com/c/6b/29e3d29b0db63d36f7c500bca31d8jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "汽车蛋糕",
+          "price": 655,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p0.meituan.net/shaitu/1aed0d28163191cff0f3ee7fd3f4235e52042.jpg@600w_600h_1l",
+          "image": "http://fuss10.elemecdn.com/f/28/a51e7b18751bcdf871648a23fd3b4jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "好吃蛋糕",
+          "price": 887,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p1.meituan.net/deal/95eaddcd728c5c0c16e49da5d25803bf107384.jpg@380w_214h_1e_1c",
+          "image": "http://fuss10.elemecdn.com/d/b9/bcab0e8ad97758e65ae5a62b2664ejpeg.jpeg?imageView2/1/w/750/h/750"
+        }
+      ]
+    },
+    {
+      "name": "巨无霸三层蛋糕",
+      "type": -1,
+      "foods": [
+        {
+          "name": "布朗熊蛋糕",
+          "price": 189,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100,
+          "info": "蛋糕",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p0.meituan.net/shaitu/0b34c4052672f9e04fcacde2dd78d7822168390.jpg",
+          "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "男闺蜜蛋糕",
+          "price": 188,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "info": "",
+          "icon": "http://p1.meituan.net/deal/0136cb3f532eb9023c738290053f1943271083.jpg@600w_600h_1l",
+          "image": "http://fuss10.elemecdn.com/c/6b/29e3d29b0db63d36f7c500bca31d8jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "汽车蛋糕",
+          "price": 655,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p0.meituan.net/shaitu/1aed0d28163191cff0f3ee7fd3f4235e52042.jpg@600w_600h_1l",
+          "image": "http://fuss10.elemecdn.com/f/28/a51e7b18751bcdf871648a23fd3b4jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "好吃蛋糕",
+          "price": 887,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p1.meituan.net/deal/95eaddcd728c5c0c16e49da5d25803bf107384.jpg@380w_214h_1e_1c",
+          "image": "http://fuss10.elemecdn.com/d/b9/bcab0e8ad97758e65ae5a62b2664ejpeg.jpeg?imageView2/1/w/750/h/750"
+        }
+      ]
+    },
+    {
+      "name": "混合巨无霸",
+      "type": -1,
+      "foods": [
+        {
+          "name": "布朗熊蛋糕",
+          "price": 189,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 229,
+          "rating": 100,
+          "info": "蛋糕",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p0.meituan.net/shaitu/0b34c4052672f9e04fcacde2dd78d7822168390.jpg",
+          "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "男闺蜜蛋糕",
+          "price": 188,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 188,
+          "rating": 96,
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "info": "",
+          "icon": "http://p1.meituan.net/deal/0136cb3f532eb9023c738290053f1943271083.jpg@600w_600h_1l",
+          "image": "http://fuss10.elemecdn.com/c/6b/29e3d29b0db63d36f7c500bca31d8jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "汽车蛋糕",
+          "price": 655,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 124,
+          "rating": 85,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p0.meituan.net/shaitu/1aed0d28163191cff0f3ee7fd3f4235e52042.jpg@600w_600h_1l",
+          "image": "http://fuss10.elemecdn.com/f/28/a51e7b18751bcdf871648a23fd3b4jpeg.jpeg?imageView2/1/w/750/h/750"
+        },
+        {
+          "name": "好吃蛋糕",
+          "price": 887,
+          "oldPrice": "",
+          "description": "",
+          "sellCount": 114,
+          "rating": 91,
+          "info": "",
+          "ratings": [
+            {
+              "username": "3******c",
+              "rateTime": 1469281964000,
+              "rateType": 0,
+              "text": "提前一天打电话预约的，老板让去大行宫新世纪广场B座18楼出电梯左边一直往里走到底就是了，生意很好，值得推荐。",
+              "avatar": "http://p0.meituan.net/shaitu/b699215ab77d25d0267d8f4769e8f426213708.jpg"
+            },
+            {
+              "username": "2******3",
+              "rateTime": 1469271264000,
+              "rateType": 0,
+              "text": "超级少女心的蛋糕",
+              "avatar": "http://p0.meituan.net/shaitu/f3f7f20cfa12847ec09dcb6c4cf1b39b1695455.jpg"
+            },
+            {
+              "username": "3******b",
+              "rateTime": 1469261964000,
+              "rateType": 1,
+              "text": "超级棒！店主人很好，清明天之都店休息，特地从大行宫店给我送了过来。",
+              "avatar": "http://p1.meituan.net/shaitu/cb46d0b85700834a70ad32ea4e8fcec5118254.jpg"
+            }
+          ],
+          "icon": "http://p1.meituan.net/deal/95eaddcd728c5c0c16e49da5d25803bf107384.jpg@380w_214h_1e_1c",
+          "image": "http://fuss10.elemecdn.com/d/b9/bcab0e8ad97758e65ae5a62b2664ejpeg.jpeg?imageView2/1/w/750/h/750"
+        }
+      ]
+    }
+  ],
+  "ratings": [
+    {
+      "username": "3******c",
+      "rateTime": 1469281964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "不错,我经常吃这一家,非常赞,以后也会常来吃,强烈推荐.",
+      "avatar": "http://p0.meituan.net/shaitu/c05495de4afa292c49d352abf23107101274819.jpg",
+      "recommend": [
+        "芭比娃娃蛋糕",
+        "10寸创意小汽车蛋糕",
+        "12英寸蛋糕",
+        "14英寸奶油蛋糕",
+        "浪漫情人节10英寸蛋糕"
+      ]
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1469271264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "deliveryTime": "",
+      "text": "服务态度不错",
+      "avatar": "http://p1.meituan.net/shaitu/d4d1ad44aaed61da0b307e14107a9206229097.jpg@130w_130h_1e_1c",
+      "recommend": [
+        "浪漫情人节10英寸蛋糕"
+      ]
+    },
+    {
+      "username": "3******b",
+      "rateTime": 1469261964000,
+      "score": 3,
+      "rateType": 1,
+      "text": "",
+      "avatar": "http://p1.meituan.net/shaitu/059d21167bd49c7121a8275675de048c251981.jpg@130w_130h_1e_1c",
+      "recommend": []
+    },
+    {
+      "username": "1******c",
+      "rateTime": 1469261864000,
+      "deliveryTime": 20,
+      "score": 5,
+      "rateType": 0,
+      "text": "良心店铺",
+      "avatar": "http://p0.meituan.net/shaitu/ced24bf8c048390e07477471a735c903429705.jpg@130w_130h_1e_1c",
+      "recommend": []
+    },
+    {
+      "username": "2******d",
+      "rateTime": 1469251264000,
+      "deliveryTime": 10,
+      "score": 4,
+      "rateType": 0,
+      "text": "",
+      "avatar": "http://p0.meituan.net/shaitu/1b05a7827fd205861a121a7affadd2bb162512.jpg",
+      "recommend": []
+    },
+    {
+      "username": "9******0",
+      "rateTime": 1469241964000,
+      "deliveryTime": 70,
+      "score": 1,
+      "rateType": 1,
+      "text": "送货速度蜗牛一样",
+      "avatar": "http://p1.meituan.net/shaitu/5bf6591d8a98be288c6058f1ebed8ca5205224.jpg",
+      "recommend": []
+    },
+    {
+      "username": "d******c",
+      "rateTime": 1469231964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "很喜欢的粥店",
+      "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png",
+      "recommend": []
+    }
+
+  ]
+}
